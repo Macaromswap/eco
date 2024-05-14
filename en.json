@@ -1,0 +1,10 @@
+[
+    {
+        "id":1,
+        "tag": ["bridge"],
+        "name":  "oooo",
+        "desc": "oooo bridge",
+        "image": "https://macaromswap.github.io/eco/logo/1.png",
+        "url": "https://bridge.oooo.money/"
+    }
+]
