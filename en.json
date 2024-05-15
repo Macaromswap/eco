@@ -6,5 +6,13 @@
         "desc": "oooo bridge",
         "image": "https://macaromswap.github.io/eco/logo/1.png",
         "url": "https://bridge.oooo.money/"
+    },
+    {
+        "id":2,
+        "tag": ["wallet"],
+        "name":  "bitget",
+        "desc": "bitget wallet",
+        "image": "https://macaromswap.github.io/eco/logo/2.png",
+        "url": "https://web3.bitget.com/"
     }
 ]
