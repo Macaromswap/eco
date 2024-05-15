@@ -9,7 +9,7 @@
     },
     {
         "id":2,
-        "tag": ["wallet"],
+        "tag": ["wallet", "dapp"],
         "name":  "bitget",
         "desc": "bitget wallet",
         "image": "https://macaromswap.github.io/eco/logo/2.png",
