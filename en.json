@@ -1,18 +1,137 @@
-[
-    {
-        "id":1,
-        "tag": ["bridge"],
-        "name":  "oooo",
-        "desc": "oooo bridge",
-        "image": "https://macaromswap.github.io/eco/logo/1.png",
-        "url": "https://bridge.oooo.money/"
+[{
+        "id": 1,
+        "name": "INTOverse",
+        "desc": "INTOverse is a decentralized network of Web3 social protocols based on blockchain and AI technologies.",
+        "tag": ["Social"],
+        "url": "https://intoverse.co/",
+        "image": "https://macaromswap.github.io/eco/logo/1.png"
     },
     {
-        "id":2,
-        "tag": ["wallet", "dapp"],
-        "name":  "bitget",
-        "desc": "bitget wallet",
-        "image": "https://macaromswap.github.io/eco/logo/2.png",
-        "url": "https://web3.bitget.com/"
+        "id": 2,
+        "name": "oooo",
+        "desc": "oooo is the first modular cross-chain protocol supporting Bitcoin Layer2s.",
+        "tag": ["Bridage"],
+        "url": "https://oooo.money",
+        "image": "https://macaromswap.github.io/eco/logo/2.png"
+    },
+    {
+        "id": 3,
+        "name": "Uniport.Network",
+        "desc": "UniPort.Network is a BTC Restaking Layer featured dual-chain architecture, a creative modular blockchain constructed based on Cosmos, Polygon CDK, and Babylon.",
+        "tag": ["Instructure"],
+        "url": "https://uniport.network/",
+        "image": "https://macaromswap.github.io/eco/logo/3.png"
+    },
+    {
+        "id": 4,
+        "name": "SecWare",
+        "desc": "SecWareX, user security hub. Connect wallet and scan, visualizing the risks users are facing, recommending security service and trusted products by third parties.",
+        "tag": ["Security"],
+        "url": "https://secwarex.io/",
+        "image": "https://macaromswap.github.io/eco/logo/4.png"
+    },
+    {
+        "id": 5,
+        "name": "Goplus",
+        "desc": "GoPlus is an open, permissionless, and user-driven Modular User Security Layer for Web3. Adaptable and designed to seamlessly integrate with any blockchain, wallets and dApps, it makes chains easy to enhance user safety to protect their users.",
+        "tag": ["Instructure"],
+        "url": "https://www.gopluslabs.io/use-case",
+        "image": "https://macaromswap.github.io/eco/logo/5.png"
+    },
+    {
+        "id": 6,
+        "name": "Cycle Network",
+        "desc": "Cycle Network is a multichain rollup solution towards trustless Chain Abstract.",
+        "tag": ["Instructure"],
+        "url": "https://www.cyclenetwork.io/",
+        "image": "https://macaromswap.github.io/eco/logo/6.png"
+    },
+    {
+        "id": 7,
+        "name": "Orbiter Finance",
+        "desc": "A decentralized cross-rollup bridge, which is the infrastructure of Layer 2.",
+        "tag": ["Instructure"],
+        "url": "https://www.orbiter.finance/?source=Ethereum&dest=Bitlayer&token=BTC",
+        "image": "https://macaromswap.github.io/eco/logo/7.png"
+    },
+    {
+        "id": 10,
+        "name": "OrdzGames",
+        "desc": "1st Gaming Project on #Bitcoin.",
+        "tag": ["Gaming"],
+        "url": "https://www.ordz.games/?page=home",
+        "image": "https://macaromswap.github.io/eco/logo/10.png"
+    },
+    {
+        "id": 11,
+        "name": "Enzo Finance",
+        "desc": "Decentralized lending protocol.",
+        "tag": ["Lending"],
+        "url": "https://enzo.finance/",
+        "image": "https://macaromswap.github.io/eco/logo/11.png"
+    },
+    {
+        "id": 12,
+        "name": "Pika",
+        "desc": "Launchpad",
+        "tag": ["Launchpad"],
+        "url": "https://pika.io/home",
+        "image": "https://macaromswap.github.io/eco/logo/12.png"
+    },
+    {
+        "id": 13,
+        "name": "Octopus",
+        "desc": "The next level bridge that connects Bitcoin to EVM.",
+        "tag": ["Brigde"],
+        "url": "https://octopusbridge.xyz/",
+        "image": "https://macaromswap.github.io/eco/logo/13.png"
+    },
+    {
+        "id": 14,
+        "name": "Neemo Finance",
+        "desc": "Liquidity Staking Protocol.",
+        "tag": ["Staking"],
+        "url": "https://neemo.finance/",
+        "image": "https://macaromswap.github.io/eco/logo/14.png"
+    },
+    {
+        "id": 15,
+        "name": "BitParty",
+        "desc": "Cross-chain interoperability network.",
+        "tag": ["CrossChain"],
+        "url": "https://www.bitparty.tech/#/",
+        "image": "https://macaromswap.github.io/eco/logo/15.png"
+    },
+    {
+        "id": 16,
+        "name": "Crossspace",
+        "desc": "Social version staking and airdrop platform.",
+        "tag": ["Airdrop"],
+        "url": "https://crossspace.io/",
+        "image": "https://macaromswap.github.io/eco/logo/16.png"
+    },
+    {
+        "id": 18,
+        "name": "Uquid",
+        "desc": "The world's first Web3 NFT and physical product smart shopping.",
+        "tag": ["shopping", "NFT"],
+        "url": "https://uquid.com/",
+        "image": "https://macaromswap.github.io/eco/logo/18.png"
+    },
+    {
+        "id": 19,
+        "name": "Particle Network",
+        "desc": "The Modular L1",
+        "tag": ["Instructure"],
+        "url": "https://particle.network",
+        "image": "https://macaromswap.github.io/eco/logo/19.png"
+    },
+    {
+        "id": 20,
+        "name": "TrustIn",
+        "desc": "lending protocol",
+        "tag": ["Lending"],
+        "url": "https://trustin.com/",
+        "image": "https://macaromswap.github.io/eco/logo/20.png"
     }
 ]
