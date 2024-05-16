@@ -10,7 +10,7 @@
         "id": 2,
         "name": "oooo",
         "desc": "oooo is the first modular cross-chain protocol supporting Bitcoin Layer2s.",
-        "tag": ["Bridage"],
+        "tag": ["Bridge"],
         "url": "https://oooo.money",
         "image": "https://macaromswap.github.io/eco/logo/2.png"
     },
@@ -50,7 +50,7 @@
         "id": 7,
         "name": "Orbiter Finance",
         "desc": "A decentralized cross-rollup bridge, which is the infrastructure of Layer 2.",
-        "tag": ["Bridage"],
+        "tag": ["Bridge"],
         "url": "https://www.orbiter.finance/?source=Ethereum&dest=Bitlayer&token=BTC",
         "image": "https://macaromswap.github.io/eco/logo/7.png"
     },
@@ -82,7 +82,7 @@
         "id": 13,
         "name": "Octopus",
         "desc": "The next level bridge that connects Bitcoin to EVM.",
-        "tag": ["Bridage"],
+        "tag": ["Bridge"],
         "url": "https://octopusbridge.xyz/",
         "image": "https://macaromswap.github.io/eco/logo/13.png"
     },
