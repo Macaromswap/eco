@@ -18,7 +18,7 @@
         "id": 3,
         "name": "Uniport.Network",
         "desc": "UniPort.Network is a BTC Restaking Layer featured dual-chain architecture, a creative modular blockchain constructed based on Cosmos, Polygon CDK, and Babylon.",
-        "tag": ["Restaking"],
+        "tag": ["Restaking", "Modular"],
         "url": "https://uniport.network/",
         "image": "https://macaromswap.github.io/eco/logo/3.png"
     },
@@ -42,7 +42,7 @@
         "id": 6,
         "name": "Cycle Network",
         "desc": "Cycle Network is a multichain rollup solution towards trustless Chain Abstract.",
-        "tag": ["CrossChain"],
+        "tag": ["Bridge"],
         "url": "https://www.cyclenetwork.io/",
         "image": "https://macaromswap.github.io/eco/logo/6.png"
     },
@@ -98,7 +98,7 @@
         "id": 15,
         "name": "BitParty",
         "desc": "Cross-chain interoperability network.",
-        "tag": ["CrossChain"],
+        "tag": ["Bridge"],
         "url": "https://www.bitparty.tech/#/",
         "image": "https://macaromswap.github.io/eco/logo/15.png"
     },
