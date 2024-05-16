@@ -18,7 +18,7 @@
         "id": 3,
         "name": "Uniport.Network",
         "desc": "UniPort.Network is a BTC Restaking Layer featured dual-chain architecture, a creative modular blockchain constructed based on Cosmos, Polygon CDK, and Babylon.",
-        "tag": ["Instructure"],
+        "tag": ["Restaking"],
         "url": "https://uniport.network/",
         "image": "https://macaromswap.github.io/eco/logo/3.png"
     },
@@ -34,7 +34,7 @@
         "id": 5,
         "name": "Goplus",
         "desc": "GoPlus is an open, permissionless, and user-driven Modular User Security Layer for Web3. Adaptable and designed to seamlessly integrate with any blockchain, wallets and dApps, it makes chains easy to enhance user safety to protect their users.",
-        "tag": ["Instructure"],
+        "tag": ["Security"],
         "url": "https://www.gopluslabs.io/use-case",
         "image": "https://macaromswap.github.io/eco/logo/5.png"
     },
@@ -42,7 +42,7 @@
         "id": 6,
         "name": "Cycle Network",
         "desc": "Cycle Network is a multichain rollup solution towards trustless Chain Abstract.",
-        "tag": ["Instructure"],
+        "tag": ["CrossChain"],
         "url": "https://www.cyclenetwork.io/",
         "image": "https://macaromswap.github.io/eco/logo/6.png"
     },
@@ -50,7 +50,7 @@
         "id": 7,
         "name": "Orbiter Finance",
         "desc": "A decentralized cross-rollup bridge, which is the infrastructure of Layer 2.",
-        "tag": ["Instructure"],
+        "tag": ["Bridage"],
         "url": "https://www.orbiter.finance/?source=Ethereum&dest=Bitlayer&token=BTC",
         "image": "https://macaromswap.github.io/eco/logo/7.png"
     },
@@ -106,7 +106,7 @@
         "id": 16,
         "name": "Crossspace",
         "desc": "Social version staking and airdrop platform.",
-        "tag": ["Airdrop"],
+        "tag": ["Social", "Staking"],
         "url": "https://crossspace.io/",
         "image": "https://macaromswap.github.io/eco/logo/16.png"
     },
@@ -114,7 +114,7 @@
         "id": 18,
         "name": "Uquid",
         "desc": "The world's first Web3 NFT and physical product smart shopping.",
-        "tag": ["shopping", "NFT"],
+        "tag": ["NFT"],
         "url": "https://uquid.com/",
         "image": "https://macaromswap.github.io/eco/logo/18.png"
     },
@@ -122,7 +122,7 @@
         "id": 19,
         "name": "Particle Network",
         "desc": "The Modular L1",
-        "tag": ["Instructure"],
+        "tag": ["Modular"],
         "url": "https://particle.network",
         "image": "https://macaromswap.github.io/eco/logo/19.png"
     },
