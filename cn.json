@@ -134,5 +134,13 @@
         "tag": ["Lending"],
         "url": "https://trustin.com/",
         "image": "https://macaromswap.github.io/eco/logo/20.png"
+    },
+    {
+        "id": 21,
+        "name": "Comet",
+        "desc": "Comet是所有比特币和以太坊生态系统之间第一个无缝互连通信协议。",
+        "tag": ["Bridge"],
+        "url": "https://cometbridge.app",
+        "image": "https://macaromswap.github.io/eco/logo/21.png"
     }
 ]
