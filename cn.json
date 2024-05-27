@@ -142,5 +142,13 @@
         "tag": ["Bridge"],
         "url": "https://cometbridge.app",
         "image": "https://macaromswap.github.io/eco/logo/21.png"
+    },
+     {
+        "id": 22,
+        "name": "Meson Finance",
+        "desc": "Meson Finance 是领先的统一跨链桥接协议，支持 BTC、ETH、BNB 和稳定币在我们支持的 50 多个区块链之间进行跨链。",
+        "tag": ["Bridge"],
+        "url": "https://meson.fi",
+        "image": "https://macaromswap.github.io/eco/logo/22.png"
     }
 ]
