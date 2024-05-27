@@ -141,5 +141,13 @@
         "tag": ["Bridge"],
         "url": "https://cometbridge.app",
         "image": "https://macaromswap.github.io/eco/logo/21.png"
+    },
+    {
+        "id": 22,
+        "name": "Meson Finance",
+        "desc": "Meson Finance is a leading unified cross-chain bridging protocol enabling  BTC, ETH, BNB, and stablecoins cross-chain between any of our supported 50+ blockchains.",
+        "tag": ["Bridge"],
+        "url": "https://meson.fi",
+        "image": "https://macaromswap.github.io/eco/logo/22.png"
     }
 ]
