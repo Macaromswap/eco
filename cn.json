@@ -150,5 +150,197 @@
         "tag": ["Bridge"],
         "url": "https://meson.fi",
         "image": "https://macaromswap.github.io/eco/logo/22.png"
-    }
+    },
+     {
+         "id": 23,
+       "name": "Avalon Finance",
+       "desc": "Avalon Finance 是一个 CeDeFi 借贷平台，通过统一流动性来引入各种资产和数百万用户。",
+       "tag": ["Lending"],
+       "url": "https://www.avalonfinance.xyz/",
+       "image": "https://macaromswap.github.io/eco/logo/23.png"
+   },
+   {
+       "id": 24,
+       "name": "TNA Protocol",
+       "desc": "TNA Protocol 是集全链域名资产发行和DA 解决方案于一体的比特币资产与安全协议。",
+       "tag": ["NFT"],
+       "url": "https://tna-btc.com/",
+       "image": "https://macaromswap.github.io/eco/logo/24.png"
+   },
+   {
+       "id": 25,
+       "name": "Camelot Protocol",
+       "desc": "Camelot Protocol 致力于构建全球最大的可移动生态系统，并在中期内打造一个多链DePIN 商城。",
+       "tag": ["Staking"],
+       "url": "https://cam3lot.io/",
+       "image": "https://macaromswap.github.io/eco/logo/25.png"
+   },
+   {
+       "id": 26,
+       "name": "Gasturbo",
+       "desc": "GAST 是一个开创性的 DeFi 平台，以其在多链收益聚合方面的创新方法而闻名。",
+       "tag": ["Yield Farming"],
+       "url": "https://app.gasturbo.io/",
+       "image": "https://macaromswap.github.io/eco/logo/26.png"
+   },
+   {
+       "id": 27,
+       "name": "ZOTH",
+       "desc": "ZOTH 是一家 RWA DeFi 基础设施公司，将固定收益产品引入链上。",
+       "tag": ["Yield Farming"],
+       "url": "https://zoth.io/",
+       "image": "https://macaromswap.github.io/eco/logo/27.png"
+   },
+   {
+       "id": 28,
+       "name": "YYEX",
+       "desc": "YYEX 是 Bitlayer 上的去中心化衍生品交易所。",
+       "tag": ["DEX"],
+       "url": "https://yyex.io/",
+       "image": "https://macaromswap.github.io/eco/logo/28.png"
+   },
+   {
+       "id": 29,
+       "name": "Glypher",
+       "desc": "Glypher 是一个多链资产 alpha 平台，您可以在这里发现和交易。",
+       "tag": ["DEX"],
+       "url": "https://glypher.io/",
+       "image": "https://macaromswap.github.io/eco/logo/29.png"
+   },
+   {
+       "id": 30,
+       "name": "Xstar",
+       "desc": "Xstar 是用于人类证明的全链身份协议。",
+       "tag": ["NFT"],
+       "url": "https://xstar.id/",
+       "image": "https://macaromswap.github.io/eco/logo/30.png"
+   },
+   {
+       "id": 31,
+       "name": "Paddle Finance",
+       "desc": "Paddle Finance 是一个用于多链定制资产的去中心化流动性协议。",
+       "tag": ["Lending"],
+       "url": "http://www.paddlefi.com/",
+       "image": "https://macaromswap.github.io/eco/logo/31.png"
+   },
+   {
+       "id": 32,
+       "name": "ERC World",
+       "desc": "ERC World 是一个多链 NFT 市场平台。",
+       "tag": ["NFT"],
+       "url": "https://ercworld.io/",
+       "image": "https://macaromswap.github.io/eco/logo/32.png"
+   },
+   {
+       "id": 33,
+       "name": "Owlto Finance",
+       "desc": "Owlto Finance 是一个专注于Layer2 的去中心化cross-rollup 桥，提供低成本、安全、快速的资产转移解决方案。",
+       "tag": ["Bridge"],
+       "url": "https://owlto.finance",
+       "image": "https://macaromswap.github.io/eco/logo/33.png"
+   },
+   {
+       "id": 34,
+       "name": "Zearn",
+       "desc": "Zearn 是一个全链流动（再）质押协议，支持多个区块链生态系统。",
+       "tag": ["Staking"],
+       "url": "https://www.zearn.xyz/",
+       "image": "https://macaromswap.github.io/eco/logo/34.png"
+   },
+   {
+       "id": 35,
+       "name": "Pell Network",
+       "desc": "Pell 是一个去中心化的信托市场，旨在实现BTC 和LSD 收益多样化，增强BTC L2 网络的安全性。",
+       "tag": ["Staking"],
+       "url": "https://pell.network",
+       "image": "https://macaromswap.github.io/eco/logo/35.png"
+   },
+   {
+       "id": 36,
+       "name": "Bunnyfi",
+       "desc": "BunnyFi 是一个多功能的多链和跨链协议，旨在提供安全且高效的资产转移解决方案。",
+       "tag": ["Bridge"],
+       "url": "https://bunnyfi.io/",
+       "image": "https://macaromswap.github.io/eco/logo/36.png"
+   },
+   {
+       "id": 37,
+       "name": "Layerbank",
+       "desc": "LayerBank 是一个先进的、无需许可的、非托管的 DeFi 借贷平台。",
+       "tag": ["Lending"],
+       "url": "https://layerbank.finance/",
+       "image": "https://macaromswap.github.io/eco/logo/37.png"
+   },
+   {
+       "id": 38,
+       "name": "OmniBTC",
+       "desc": "OmniBTC 是一个去中心化的跨链桥和借贷平台，旨在连接和统一链上所有流动性。",
+       "tag": ["Bridge"],
+       "url": "https://www.omnibtc.finance/",
+       "image": "https://macaromswap.github.io/eco/logo/38.png"
+   },
+   {
+       "id": 39,
+       "name": "Moonshot",
+       "desc": "Moonshot 是一个 Degen 游戏平台，拥有三款游戏：Crash、Double 和 Coinflip。",
+       "tag": ["Gaming"],
+       "url": "https://moonshot.win/",
+       "image": "https://macaromswap.github.io/eco/logo/39.png"
+   },
+   {
+       "id": 40,
+       "name": "Woof Woof West",
+       "desc": "Woof Woof West 是 Bitlayer 上第一个全链 P2E 游戏，具有社交和用户互动功能。",
+       "tag": ["Gaming"],
+       "url": "https://woofwoofwest.fi/",
+       "image": "https://macaromswap.github.io/eco/logo/40.png"
+   },
+   {
+       "id": 41,
+       "name": "Arcana",
+       "desc": "Arcana 提供了一套工具和基础设施，帮助开发者构建用户友好的 Web3 应用程序入驻体验。",
+       "tag": ["Social"],
+       "url": "http://www.arcana.network/",
+       "image": "https://macaromswap.github.io/eco/logo/41.png"
+   },
+   {
+       "id": 42,
+       "name": "Master Protocol",
+       "desc": "Master Protocol 是专为所有LSD资产量身定做的一站式金融平台。",
+       "tag": ["Staking", "Modular"],
+       "url": "https://testnet.masterprotocol.xyz",
+       "image": "https://macaromswap.github.io/eco/logo/42.png"
+   },
+   {
+       "id": 43,
+       "name": "Lorenzo",
+       "desc": "Lorenzo Protocol 是基于Babylon 的去中心化流动性质押平台。",
+       "tag": ["Staking"],
+       "url": "https://app.lorenzo-protocol.xyz/",
+       "image": "https://macaromswap.github.io/eco/logo/43.png"
+   },
+   {
+       "id": 44,
+       "name": "LayerX",
+       "desc": "LayerX 游戏平台是位于 BTC Layer 2 网络上的 GameFi 平台。",
+       "tag": ["Gaming"],
+       "url": "https://layerx.cc",
+       "image": "https://macaromswap.github.io/eco/logo/44.png"
+   },
+   {
+       "id": 45,
+       "name": "LAVA Protocol",
+       "desc": "LAVA Protocol 是比特币 Layer 2 上的流动性证明解决方案，由 Bitlayer、Chaincather、CAGA 和 Satoshi 支持。",
+       "tag": ["Modular"],
+       "url": "https://www.lavarune.com",
+       "image": "https://macaromswap.github.io/eco/logo/45.png"
+   },
+   {
+       "id": 46,
+       "name": "Corridor Finance",
+       "desc": "Corridor Finance 是适用于所有比特币L2 网络的跨链AMM 交易所,并提供桥，挖矿功能。",
+       "tag": ["Modular"],
+       "url": "https://corridor.finance/",
+       "image": "https://macaromswap.github.io/eco/logo/46.png"
+   }
 ]
