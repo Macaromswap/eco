@@ -250,14 +250,14 @@
    {
        "id": 35,
        "name": "Pell Network",
-       "desc": "Pell is a decentralized trust marketplace that diversifies BTC and LSD yield, aiming to enhance security for BTC L2 networks.",
+       "desc": "Pell Network is a decentralized trust marketplace that diversifies BTC and LSD yield, aiming to enhance security for BTC L2 networks.",
        "tag": ["Staking"],
        "url": "https://pell.network",
        "image": "https://macaromswap.github.io/eco/logo/35.png"
    },
    {
        "id": 36,
-       "name": "Bunnyfi",
+       "name": "BunnyFi",
        "desc": "BunnyFi, a multifaceted multi-chain and cross-chain protocol designed to deliver secure and cost-efficient asset transfer solutions.",
        "tag": ["Bridge"],
        "url": "https://bunnyfi.io/",
@@ -265,7 +265,7 @@
    },
    {
        "id": 37,
-       "name": "Layerbank",
+       "name": "LayerBank",
        "desc": "LayerBank stands as a state-of-the-art, permissionless, non-custodial DeFi lending platform.",
        "tag": ["Lending"],
        "url": "https://layerbank.finance/",
@@ -342,5 +342,141 @@
        "tag": ["Modular"],
        "url": "https://corridor.finance/",
        "image": "https://macaromswap.github.io/eco/logo/46.png"
+   },
+   {
+       "id": 47,
+       "name": "Gusdt",
+       "desc": "Generic USD (gUSD) is the next-generation \"Generic Stablecoin\" protocol.",
+       "tag": ["Stablecoin"],
+       "url": "https://gstable.io",
+       "image": "https://macaromswap.github.io/eco/logo/47.png"
+   },
+   {
+       "id": 48,
+       "name": "Gamerboom",
+       "desc": "Gamerboom is a portal empowering real gamers.",
+       "tag": ["Gaming"],
+       "url": "https://www.gamerboom.org/",
+       "image": "https://macaromswap.github.io/eco/logo/48.png"
+   },
+   {
+       "id": 49,
+       "name": "Mini Bridge",
+       "desc": "Mini Bridge is a cross-chain bridge developed by the Chaineye team for small transfer scenarios.",
+       "tag": ["Bridge"],
+       "url": "https://minibridge.chaineye.tools/",
+       "image": "https://macaromswap.github.io/eco/logo/49.png"
+   },
+   {
+       "id": 50,
+       "name": "Wormhole3",
+       "desc": "Wormhole3 is a web3 application governed by decentralized code and protocol.",
+       "tag": ["Social"],
+       "url": "https://alpha.wormhole3.io/",
+       "image": "https://macaromswap.github.io/eco/logo/50.png"
+   },
+   {
+       "id": 51,
+       "name": "Rivera Money",
+       "desc": "Rivera Money is a permissionless liquidity management protocol that transforms concentrated positions into DeFi-composable yield tokens.",
+       "tag": ["Staking", "DEX"],
+       "url": "https://rivera.money/",
+       "image": "https://macaromswap.github.io/eco/logo/51.png"
+   },
+   {
+       "id": 52,
+       "name": "Rolldex",
+       "desc": "RollDex stands at the forefront of BTC-native decentralized exchanges, revolutionizing the crypto derivatives market.",
+       "tag": ["DEX"],
+       "url": "https://rolldex.io/",
+       "image": "https://macaromswap.github.io/eco/logo/52.png"
+   },
+   {
+       "id": 53,
+       "name": "InfinityAI",
+       "desc": "InfinityAI is a decentralized AIGC (Artificial Intelligence Generated Content) infrastructure based on Web3 AI tools, built on the Bitcoin Layer2 network.",
+       "tag": ["NFT"],
+       "url": "https://www.infinityai.network/",
+       "image": "https://macaromswap.github.io/eco/logo/53.png"
+   },
+   {
+       "id": 54,
+       "name": "Vanilla",
+       "desc": "Vanilla is the only Decentralized Trading Platform Where you can own 1 Bitcoin for Just $10! Vanilla Finance supports up to 10,000x leverage and no risk of liquidation.",
+       "tag": ["DEX"],
+       "url": "https://bit.vanillafinance.xyz/en/trade",
+       "image": "https://macaromswap.github.io/eco/logo/54.png"
+   },
+   {
+       "id": 55,
+       "name": "VolaARK",
+       "desc": "VolaARK is the cross-chain LST Protocol Integration, initially deployed on BitlayerLabs.",
+       "tag": ["Staking"],
+       "url": "https://volaark.io/",
+       "image": "https://macaromswap.github.io/eco/logo/55.png"
+   },
+   {
+       "id": 56,
+       "name": "Omnity Network",
+       "desc": "Omnity Network is a 100% decentralized, cross-chain protocol that supports the new assets of Bitcoin, including Runes.",
+       "tag": ["Bridge"],
+       "url": "https://www.omnity.network/brand",
+       "image": "https://macaromswap.github.io/eco/logo/56.png"
+   },
+   {
+       "id": 57,
+       "name": "Ordmint",
+       "desc": "Ordmint is the first community-driven ordinal launchpad & creator of OrdmintBot for inscription trading.",
+       "tag": ["Launchpad", "Trading Bot"],
+       "url": "https://t.me/ordmint_bot",
+       "image": "https://macaromswap.github.io/eco/logo/57.png"
+   },
+   {
+       "id": 58,
+       "name": "Allspark",
+       "desc": "Allspark is an omnichain liquidity protocol with composite native yields.",
+       "tag": ["Staking"],
+       "url": "https://allspark.finance/",
+       "image": "https://macaromswap.github.io/eco/logo/58.png"
+   },
+   {
+       "id": 59,
+       "name": "Bool Network",
+       "desc": "Bool Network is a permissionless, decentralized, and secure Bitcoin verification layer.",
+       "tag": ["Bridge"],
+       "url": "https://bool.network/",
+       "image": "https://macaromswap.github.io/eco/logo/59.png"
+   },
+   {
+       "id": 60,
+       "name": "BridgeM",
+       "desc": "BridgeM is a decentralized interoperability protocol that seamlessly connects Ethereum Layer 2 and Bitcoin Layer 2 networks.",
+       "tag": ["Bridge"],
+       "url": "https://bridgem.io/",
+       "image": "https://macaromswap.github.io/eco/logo/60.png"
+   },
+   {
+       "id": 61,
+       "name": "Eisen",
+       "desc": "Eisen is a Multichain DEX & CEX aggregator for Traders and Liquidity Providers.",
+       "tag": ["DEX"],
+       "url": "https://app.eisenfinance.com/",
+       "image": "https://macaromswap.github.io/eco/logo/61.png"
+   },
+   {
+       "id": 62,
+       "name": "Domin Network",
+       "desc": "Domin Network aims to roll up real-world commerce data to a multi-chain ecosystem, utilizing NFTs, DePIN & AI to optimize consumer data in dApps.",
+       "tag": ["DePIN"],
+       "url": "https://www.domin.foundation/",
+       "image": "https://macaromswap.github.io/eco/logo/62.png"
+   },
+   {
+       "id": 63,
+       "name": "Ordinox",
+       "desc": "Ordinox is a simple DeFi app-chain built using the Tendermint consensus engine, Cosmos-SDK state machine, and GG20 (TSS). It is a standalone Layer 1 DEX created using the Cosmos SDK.",
+       "tag": ["DEX"],
+       "url": "https://ordinox.xyz/",
+       "image": "https://macaromswap.github.io/eco/logo/63.png"
    }
 ]

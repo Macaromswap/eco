@@ -342,5 +342,141 @@
        "tag": ["Modular"],
        "url": "https://corridor.finance/",
        "image": "https://macaromswap.github.io/eco/logo/46.png"
-   }
+   },
+   {
+       "id": 47,
+        "name": "Gusdt",
+        "desc": "Generic USD (gUSD) 是下一代的“通用稳定币”协议。",
+        "tag": ["Stablecoin"],
+        "url": "https://gstable.io",
+        "image": "https://macaromswap.github.io/eco/logo/47.png"
+    },
+    {
+        "id": 48,
+        "name": "Gamerboom",
+        "desc": "Gamerboom 是一个赋能真实游戏玩家的门户。",
+        "tag": ["Gaming"],
+        "url": "https://www.gamerboom.org/",
+        "image": "https://macaromswap.github.io/eco/logo/48.png"
+    },
+    {
+        "id": 49,
+        "name": "Mini Bridge",
+        "desc": "Mini Bridge 是由 Chaineye 团队开发的小额转账跨链桥。",
+        "tag": ["Bridge"],
+        "url": "https://minibridge.chaineye.tools/",
+        "image": "https://macaromswap.github.io/eco/logo/49.png"
+    },
+    {
+        "id": 50,
+        "name": "Wormhole3",
+        "desc": "Wormhole3是一个去中心化和可组合的社交策展协议，允许任何人为他们的社区、项目和内容创建社交和策展网络。",
+        "tag": ["Social"],
+        "url": "https://alpha.wormhole3.io/",
+        "image": "https://macaromswap.github.io/eco/logo/50.png"
+    },
+    {
+        "id": 51,
+        "name": "Rivera Money",
+        "desc": "Rivera Money 是一种无需许可的流动性管理协议，可将集中头寸转化为DeFi 可组合收益代币。",
+        "tag": ["Staking", "DEX"],
+        "url": "https://rivera.money/",
+        "image": "https://macaromswap.github.io/eco/logo/51.png"
+    },
+    {
+        "id": 52,
+        "name": "RollDex",
+        "desc": "RollDex是一个比特币原生永续合约交易所。",
+        "tag": ["DEX"],
+        "url": "https://rolldex.io/",
+        "image": "https://macaromswap.github.io/eco/logo/52.png"
+    },
+    {
+        "id": 53,
+        "name": "Infinity.ai",
+        "desc": "InfinityAI 是一个基于 Web3 AI 工具的去中心化 AIGC（人工智能生成内容）基础设施，建立在比特币 Layer2 网络上。",
+        "tag": ["NFT"],
+        "url": "https://www.infinityai.network/",
+        "image": "https://macaromswap.github.io/eco/logo/53.png"
+    },
+    {
+        "id": 54,
+        "name": "Vanilla Finance",
+        "desc": "Vanilla Finance是唯一一家允许用户仅用10美元购买1个比特币的去中心交易平台。",
+        "tag": ["DEX"],
+        "url": "https://bit.vanillafinance.xyz/en/trade",
+        "image": "https://macaromswap.github.io/eco/logo/54.png"
+    },
+    {
+        "id": 55,
+        "name": "VolaARK",
+        "desc": "VolaARK 是一个跨链流动性质押协议。",
+        "tag": ["Staking"],
+        "url": "https://volaark.io/",
+        "image": "https://macaromswap.github.io/eco/logo/55.png"
+    },
+    {
+        "id": 56,
+        "name": "Omnity Network",
+        "desc": "Omnity Network 是一个 100% 去中心化的跨链协议，支持比特币的新资产，包括 Runes。",
+        "tag": ["Bridge"],
+        "url": "https://www.omnity.network/brand",
+        "image": "https://macaromswap.github.io/eco/logo/56.png"
+    },
+    {
+        "id": 57,
+        "name": "Ordmint",
+        "desc": "Ordmint 是第一个社区驱动的 Ordinal Launchpad & OrdmintBot 创建者，用于铭文交易。",
+        "tag": ["Launchpad", "Trading Bot"],
+        "url": "https://t.me/ordmint_bot",
+        "image": "https://macaromswap.github.io/eco/logo/57.png"
+    },
+    {
+        "id": 58,
+        "name": "Allspark",
+        "desc": "Allspark 是一个全链流动性协议，具有复合收益功能。",
+        "tag": ["Staking"],
+        "url": "https://allspark.finance/",
+        "image": "https://macaromswap.github.io/eco/logo/58.png"
+    },
+    {
+        "id": 59,
+        "name": "Bool Network",
+        "desc": "Bool Network 是一个无许可、去中心化且安全的比特币验证层。",
+        "tag": ["Bridge"],
+        "url": "https://bool.network/",
+        "image": "https://macaromswap.github.io/eco/logo/59.png"
+    },
+    {
+        "id": 60,
+        "name": "BridgeM",
+        "desc": "BridgeM 是一个去中心化的互操作协议，能够无缝连接以太坊 Layer 2 和比特币 Layer 2 网络。",
+        "tag": ["Bridge"],
+        "url": "https://bridgem.io/",
+        "image": "https://macaromswap.github.io/eco/logo/60.png"
+    },
+    {
+        "id": 61,
+        "name": "Eisen",
+        "desc": "Eisen 是一个为交易者和流动性提供者设计的多链 DEX & CEX 聚合器。",
+        "tag": ["DEX"],
+        "url": "https://app.eisenfinance.com/",
+        "image": "https://macaromswap.github.io/eco/logo/61.png"
+    },
+    {
+        "id": 62,
+        "name": "Domin Network",
+        "desc": "Domin Network 旨在将现实世界的商业数据汇集到多链生态系统中，利用 NFT、DePIN 和 AI 来优化 dApp 中的消费者数据。",
+        "tag": ["DePIN"],
+        "url": "https://www.domin.foundation/",
+        "image": "https://macaromswap.github.io/eco/logo/62.png"
+    },
+    {
+        "id": 63,
+        "name": "Ordinox",
+        "desc": "Ordinox基于Cosmos SDK提供支持的原生流动性池在比特币上提供DeFi服务。",
+        "tag": ["DEX"],
+        "url": "https://ordinox.xyz/",
+        "image": "https://macaromswap.github.io/eco/logo/63.png"
+    }
 ]
