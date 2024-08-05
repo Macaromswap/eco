@@ -19,7 +19,7 @@
         "id": 3,
         "name": "Uniport.Network",
         "desc": "UniPort.Network 是一个特色为BTC Restaking Layer的双链架构，是基于Cosmos、Polygon CDK和Babylon构建的创新模块化区块链。",
-        "tag": ["Staking", "Modular"],
+        "tag": ["Web3 Infra"],
         "url": "https://uniport.network/",
         "image": "https://macaromswap.github.io/eco/logo/3.png"
     },
@@ -59,7 +59,7 @@
         "id": 10,
         "name": "OrdzGames",
         "desc": "OrdzGames 是#比特币上的第一个游戏项目。",
-        "tag": ["Gaming"],
+        "tag": ["GameFi"],
         "url": "https://www.ordz.games/?page=home",
         "image": "https://macaromswap.github.io/eco/logo/10.png"
     },
@@ -67,7 +67,7 @@
         "id": 11,
         "name": "Enzo Finance",
         "desc": "Enzo Finance 是去中心化的借贷协议。",
-        "tag": ["Lending"],
+        "tag": ["DeFi"],
         "url": "https://enzo.finance/",
         "image": "https://macaromswap.github.io/eco/logo/11.png"
     },
@@ -91,7 +91,7 @@
         "id": 14,
         "name": "Neemo Finance",
         "desc": "Neemo Finance 是流动性质押协议。",
-        "tag": ["Staking"],
+        "tag": ["DeFi"],
         "url": "https://neemo.finance/",
         "image": "https://macaromswap.github.io/eco/logo/14.png"
     },
@@ -107,7 +107,7 @@
         "id": 16,
         "name": "Crossspace",
         "desc": "Crossspace 是社交版本的质押和空投平台。",
-        "tag": ["Social", "Staking"],
+        "tag": ["Social"],
         "url": "https://crossspace.io/",
         "image": "https://macaromswap.github.io/eco/logo/16.png"
     },
@@ -123,7 +123,7 @@
         "id": 19,
         "name": "Particle Network",
         "desc": "Particle Network 是模块化L1。",
-        "tag": ["Modular"],
+        "tag": ["Web3 Infra"],
         "url": "https://particle.network",
         "image": "https://macaromswap.github.io/eco/logo/19.png"
     },
@@ -131,7 +131,7 @@
         "id": 20,
         "name": "TrustIn",
         "desc": "TrustIn 是借贷协议。",
-        "tag": ["Lending"],
+        "tag": ["DeFi"],
         "url": "https://trustin.com/",
         "image": "https://macaromswap.github.io/eco/logo/20.png"
     },
@@ -155,15 +155,15 @@
          "id": 23,
        "name": "Avalon Finance",
        "desc": "Avalon Finance 是一个 CeDeFi 借贷平台，通过统一流动性来引入各种资产和数百万用户。",
-       "tag": ["Lending"],
+       "tag": ["DeFi"],
        "url": "https://www.avalonfinance.xyz/",
        "image": "https://macaromswap.github.io/eco/logo/23.png"
    },
    {
        "id": 24,
        "name": "TNA Protocol",
-       "desc": "TNA Protocol 是集全链域名资产发行和DA 解决方案于一体的比特币资产与安全协议。",
-       "tag": ["NFT"],
+       "desc": "TNA Protocol 是集全链域名资产发行和DA解决方案于一体的比特币资产与安全协议。",
+       "tag": ["Web3 Infra"],
        "url": "https://tna-btc.com/",
        "image": "https://macaromswap.github.io/eco/logo/24.png"
    },
@@ -171,7 +171,7 @@
        "id": 25,
        "name": "Camelot Protocol",
        "desc": "Camelot Protocol 致力于构建全球最大的可移动生态系统，并在中期内打造一个多链DePIN 商城。",
-       "tag": ["Staking"],
+       "tag": ["DeFi"],
        "url": "https://cam3lot.io/",
        "image": "https://macaromswap.github.io/eco/logo/25.png"
    },
@@ -179,7 +179,7 @@
        "id": 26,
        "name": "Gasturbo",
        "desc": "GAST 是一个开创性的 DeFi 平台，以其在多链收益聚合方面的创新方法而闻名。",
-       "tag": ["Yield Farming"],
+       "tag": ["DeFi"],
        "url": "https://app.gasturbo.io/",
        "image": "https://macaromswap.github.io/eco/logo/26.png"
    },
@@ -187,7 +187,7 @@
        "id": 27,
        "name": "ZOTH",
        "desc": "ZOTH 是一家 RWA DeFi 基础设施公司，将固定收益产品引入链上。",
-       "tag": ["Yield Farming"],
+       "tag": ["DeFi"],
        "url": "https://zoth.io/",
        "image": "https://macaromswap.github.io/eco/logo/27.png"
    },
@@ -195,7 +195,7 @@
        "id": 28,
        "name": "YYEX",
        "desc": "YYEX 是 Bitlayer 上的去中心化衍生品交易所。",
-       "tag": ["DEX"],
+       "tag": ["DeFi"],
        "url": "https://yyex.io/",
        "image": "https://macaromswap.github.io/eco/logo/28.png"
    },
@@ -203,7 +203,7 @@
        "id": 29,
        "name": "Glypher",
        "desc": "Glypher 是一个多链资产 alpha 平台，您可以在这里发现和交易。",
-       "tag": ["DEX"],
+       "tag": ["DeFi"],
        "url": "https://glypher.io/",
        "image": "https://macaromswap.github.io/eco/logo/29.png"
    },
@@ -219,7 +219,7 @@
        "id": 31,
        "name": "Paddle Finance",
        "desc": "Paddle Finance 是一个用于多链定制资产的去中心化流动性协议。",
-       "tag": ["Lending"],
+       "tag": ["DeFi"],
        "url": "http://www.paddlefi.com/",
        "image": "https://macaromswap.github.io/eco/logo/31.png"
    },
@@ -243,7 +243,7 @@
        "id": 34,
        "name": "Zearn",
        "desc": "Zearn 是一个全链流动（再）质押协议，支持多个区块链生态系统。",
-       "tag": ["Staking"],
+       "tag": ["DeFi"],
        "url": "https://www.zearn.xyz/",
        "image": "https://macaromswap.github.io/eco/logo/34.png"
    },
@@ -251,7 +251,7 @@
        "id": 35,
        "name": "Pell Network",
        "desc": "Pell 是一个去中心化的信托市场，旨在实现BTC 和LSD 收益多样化，增强BTC L2 网络的安全性。",
-       "tag": ["Staking"],
+       "tag": ["DeFi"],
        "url": "https://pell.network",
        "image": "https://macaromswap.github.io/eco/logo/35.png"
    },
@@ -267,7 +267,7 @@
        "id": 37,
        "name": "Layerbank",
        "desc": "LayerBank 是一个先进的、无需许可的、非托管的 DeFi 借贷平台。",
-       "tag": ["Lending"],
+       "tag": ["DeFi"],
        "url": "https://layerbank.finance/",
        "image": "https://macaromswap.github.io/eco/logo/37.png"
    },
@@ -283,7 +283,7 @@
        "id": 39,
        "name": "Moonshot",
        "desc": "Moonshot 是一个 Degen 游戏平台，拥有三款游戏：Crash、Double 和 Coinflip。",
-       "tag": ["Gaming"],
+       "tag": ["GameFi"],
        "url": "https://moonshot.win/",
        "image": "https://macaromswap.github.io/eco/logo/39.png"
    },
@@ -291,7 +291,7 @@
        "id": 40,
        "name": "Woof Woof West",
        "desc": "Woof Woof West 是 Bitlayer 上第一个全链 P2E 游戏，具有社交和用户互动功能。",
-       "tag": ["Gaming"],
+       "tag": ["GameFi"],
        "url": "https://woofwoofwest.fi/",
        "image": "https://macaromswap.github.io/eco/logo/40.png"
    },
@@ -307,7 +307,7 @@
        "id": 42,
        "name": "Master Protocol",
        "desc": "Master Protocol 是专为所有LSD资产量身定做的一站式金融平台。",
-       "tag": ["Staking", "Modular"],
+       "tag": ["DeFi"],
        "url": "https://testnet.masterprotocol.xyz",
        "image": "https://macaromswap.github.io/eco/logo/42.png"
    },
@@ -315,7 +315,7 @@
        "id": 43,
        "name": "Lorenzo",
        "desc": "Lorenzo Protocol 是基于Babylon 的去中心化流动性质押平台。",
-       "tag": ["Staking"],
+       "tag": ["DeFi"],
        "url": "https://app.lorenzo-protocol.xyz/",
        "image": "https://macaromswap.github.io/eco/logo/43.png"
    },
@@ -323,7 +323,7 @@
        "id": 44,
        "name": "LayerX",
        "desc": "LayerX 游戏平台是位于 BTC Layer 2 网络上的 GameFi 平台。",
-       "tag": ["Gaming"],
+       "tag": ["GameFi"],
        "url": "https://layerx.cc",
        "image": "https://macaromswap.github.io/eco/logo/44.png"
    },
@@ -331,7 +331,7 @@
        "id": 45,
        "name": "LAVA Protocol",
        "desc": "LAVA Protocol 是比特币 Layer 2 上的流动性证明解决方案，由 Bitlayer、Chaincather、CAGA 和 Satoshi 支持。",
-       "tag": ["Modular"],
+       "tag": ["Bridge"],
        "url": "https://www.lavarune.com",
        "image": "https://macaromswap.github.io/eco/logo/45.png"
    },
@@ -339,7 +339,7 @@
        "id": 46,
        "name": "Corridor Finance",
        "desc": "Corridor Finance 是适用于所有比特币L2 网络的跨链AMM 交易所,并提供桥，挖矿功能。",
-       "tag": ["Modular"],
+       "tag": ["Bridge","Web3 Infra","DeFi"],
        "url": "https://corridor.finance/",
        "image": "https://macaromswap.github.io/eco/logo/46.png"
    },
@@ -355,7 +355,7 @@
         "id": 48,
         "name": "Gamerboom",
         "desc": "Gamerboom 是一个赋能真实游戏玩家的门户。",
-        "tag": ["Gaming"],
+        "tag": ["GameFi"],
         "url": "https://www.gamerboom.org/",
         "image": "https://macaromswap.github.io/eco/logo/48.png"
     },
@@ -379,7 +379,7 @@
         "id": 51,
         "name": "Rivera Money",
         "desc": "Rivera Money 是一种无需许可的流动性管理协议，可将集中头寸转化为DeFi 可组合收益代币。",
-        "tag": ["Staking", "DEX"],
+        "tag": ["DeFi"],
         "url": "https://rivera.money/",
         "image": "https://macaromswap.github.io/eco/logo/51.png"
     },
@@ -387,7 +387,7 @@
         "id": 52,
         "name": "RollDex",
         "desc": "RollDex是一个比特币原生永续合约交易所。",
-        "tag": ["DEX"],
+        "tag": ["DeFi"],
         "url": "https://rolldex.io/",
         "image": "https://macaromswap.github.io/eco/logo/52.png"
     },
@@ -403,7 +403,7 @@
         "id": 54,
         "name": "Vanilla Finance",
         "desc": "Vanilla Finance是唯一一家允许用户仅用10美元购买1个比特币的去中心交易平台。",
-        "tag": ["DEX"],
+        "tag": ["DeFi"],
         "url": "https://bit.vanillafinance.xyz/en/trade",
         "image": "https://macaromswap.github.io/eco/logo/54.png"
     },
@@ -411,7 +411,7 @@
         "id": 55,
         "name": "VolaARK",
         "desc": "VolaARK 是一个跨链流动性质押协议。",
-        "tag": ["Staking"],
+        "tag": ["DeFi"],
         "url": "https://volaark.io/",
         "image": "https://macaromswap.github.io/eco/logo/55.png"
     },
@@ -427,7 +427,7 @@
         "id": 57,
         "name": "Ordmint",
         "desc": "Ordmint 是第一个社区驱动的 Ordinal Launchpad & OrdmintBot 创建者，用于铭文交易。",
-        "tag": ["Launchpad", "Trading Bot"],
+        "tag": ["Launchpad", "DeFi"],
         "url": "https://t.me/ordmint_bot",
         "image": "https://macaromswap.github.io/eco/logo/57.png"
     },
@@ -435,7 +435,7 @@
         "id": 58,
         "name": "Allspark",
         "desc": "Allspark 是一个全链流动性协议，具有复合收益功能。",
-        "tag": ["Staking"],
+        "tag": ["DeFi"],
         "url": "https://allspark.finance/",
         "image": "https://macaromswap.github.io/eco/logo/58.png"
     },
@@ -459,7 +459,7 @@
         "id": 61,
         "name": "Eisen",
         "desc": "Eisen 是一个为交易者和流动性提供者设计的多链 DEX & CEX 聚合器。",
-        "tag": ["DEX"],
+        "tag": ["DeFi"],
         "url": "https://app.eisenfinance.com/",
         "image": "https://macaromswap.github.io/eco/logo/61.png"
     },
@@ -467,7 +467,7 @@
         "id": 62,
         "name": "Domin Network",
         "desc": "Domin Network 旨在将现实世界的商业数据汇集到多链生态系统中，利用 NFT、DePIN 和 AI 来优化 dApp 中的消费者数据。",
-        "tag": ["DePIN"],
+        "tag": ["Web3 Infra"],
         "url": "https://www.domin.foundation/",
         "image": "https://macaromswap.github.io/eco/logo/62.png"
     },
@@ -475,8 +475,80 @@
         "id": 63,
         "name": "Ordinox",
         "desc": "Ordinox基于Cosmos SDK提供支持的原生流动性池在比特币上提供DeFi服务。",
-        "tag": ["DEX"],
+        "tag": ["DeFi"],
         "url": "https://ordinox.xyz/",
         "image": "https://macaromswap.github.io/eco/logo/63.png"
+    },
+    {
+        "id": 64,
+        "name": "Golden Apple",
+        "desc": "Golden Apple 是 BRC-20 NFT 系列，拥有 21,000,000 个 NFT。",
+        "tag": ["NFT"],
+        "url": "https://testnet.goldenapple.io/en",
+        "image": "https://drive.google.com/drive/folders/1D_HIi_9WkSbnMl1z6aGL8I_gptcLC90n?usp=sharing"
+    },
+    {
+        "id": 65,
+        "name": "OrangeLayer",
+        "desc": "OrangeLayer 是一个质押基础设施平台，旨在将比特币的强大加密经济安全性与以太坊的智能合约能力相结合。",
+        "tag": ["DeFi"],
+        "url": "https://www.orangelayer.xyz/",
+        "image": "https://docs.orangelayer.xyz/media-kit"
+    },
+    {
+        "id": 66,
+        "name": "PolyFlow",
+        "desc": "PolyFlow 是一个模块化、AI 支持的去中心化加密资产操作协议，以支持 PayFi 及其他应用。",
+        "tag": ["Web3 Infra"],
+        "url": "https://polyflow.tech/",
+        "image": "https://drive.google.com/file/d/1yBH7R6vlCmG6MQMf-_AWFMNLVJl_0VaX/view?usp=sharing"
+    },
+    {
+        "id": 67,
+        "name": "Predx.ai",
+        "desc": "Predx.ai 是一个由 AI 驱动的预测市场，旨在成为世界上最具吸引力和信息性的事件交易平台。",
+        "tag": ["DeFi"],
+        "url": "https://predx.ai/",
+        "image": "https://drive.google.com/drive/folders/1BStqtslkWWGZ1aaGo1_Be3Y7xFkwazIi?usp=drive_link"
+    },
+    {
+        "id": 68,
+        "name": "Openbit",
+        "desc": "Openbit 是比特币经济的一站式钱包和超级 dApp 解决方案。",
+        "tag": ["Web3 Infra"],
+        "url": "https://chromewebstore.google.com/detail/openbit-wallet/olobejhimilbacjmmhpcokekiaapfojm",
+        "image": "https://github.com/openbitdev/branding-kit/blob/main/OpenBit-Branding-Kit.zip"
+    },
+    {
+        "id": 69,
+        "name": "MathWallet",
+        "desc": "MathWallet 是一个多平台（移动/桌面/硬件）通用加密钱包。",
+        "tag": ["Web3 Infra"],
+        "url": "https://mathwallet.org/en-us/",
+        "image": "https://blog.mathwallet.org/?p=396"
+    },
+    {
+        "id": 70,
+        "name": "XLINK",
+        "desc": "XLink 是一个比特币跨链桥。",
+        "tag": ["Bridge"],
+        "url": "https://www.xlink.network/",
+        "image": "https://drive.google.com/drive/folders/1rg9Atfc4v3KFVctrerq4g8HOMqlKePI1?usp=sharing"
+    },
+    {
+        "id": 71,
+        "name": "BITliquidity",
+        "desc": "BITLiquidity 是一个 BRC-20 交易聚合器。",
+        "tag": ["DeFi"],
+        "url": "https://bitliquidity.io/",
+        "image": "https://drive.google.com/drive/folders/1fSSMxjc-TT-vD6Efah4u8SQb8Qs7XbSu"
+    },
+    {
+        "id": 72,
+        "name": "BitAcross",
+        "desc": "BitAcross 是一个连接比特币主网和其他网络的跨链桥产品。",
+        "tag": ["Bridge"],
+        "url": "https://app.bitacross.io/",
+        "image": "BitAcorss media kit.zip"
     }
 ]

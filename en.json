@@ -19,7 +19,7 @@
         "id": 3,
         "name": "Uniport.Network",
         "desc": "UniPort.Network is a BTC Restaking Layer featured dual-chain architecture, a creative modular blockchain constructed based on Cosmos, Polygon CDK, and Babylon.",
-        "tag": ["Staking", "Modular"],
+        "tag": ["Web3 Infra"],
         "url": "https://uniport.network/",
         "image": "https://macaromswap.github.io/eco/logo/3.png"
     },
@@ -59,7 +59,7 @@
         "id": 10,
         "name": "OrdzGames",
         "desc": "1st Gaming Project on #Bitcoin.",
-        "tag": ["Gaming"],
+        "tag": ["GameFi"],
         "url": "https://www.ordz.games/?page=home",
         "image": "https://macaromswap.github.io/eco/logo/10.png"
     },
@@ -67,7 +67,7 @@
         "id": 11,
         "name": "Enzo Finance",
         "desc": "Decentralized lending protocol.",
-        "tag": ["Lending"],
+        "tag": ["DeFi"],
         "url": "https://enzo.finance/",
         "image": "https://macaromswap.github.io/eco/logo/11.png"
     },
@@ -91,7 +91,7 @@
         "id": 14,
         "name": "Neemo Finance",
         "desc": "Liquidity Staking Protocol.",
-        "tag": ["Staking"],
+        "tag": ["DeFi"],
         "url": "https://neemo.finance/",
         "image": "https://macaromswap.github.io/eco/logo/14.png"
     },
@@ -107,7 +107,7 @@
         "id": 16,
         "name": "Crossspace",
         "desc": "Social version staking and airdrop platform.",
-        "tag": ["Social", "Staking"],
+        "tag": ["Social"],
         "url": "https://crossspace.io/",
         "image": "https://macaromswap.github.io/eco/logo/16.png"
     },
@@ -123,7 +123,7 @@
         "id": 19,
         "name": "Particle Network",
         "desc": "The Modular L1",
-        "tag": ["Modular"],
+        "tag": ["Web3 Infra"],
         "url": "https://particle.network",
         "image": "https://macaromswap.github.io/eco/logo/19.png"
     },
@@ -131,7 +131,7 @@
         "id": 20,
         "name": "TrustIn",
         "desc": "lending protocol",
-        "tag": ["Lending"],
+        "tag": ["DeFi"],
         "url": "https://trustin.com/",
         "image": "https://macaromswap.github.io/eco/logo/20.png"
     },
@@ -155,7 +155,7 @@
         "id": 23,
        "name": "Avalon Finance",
        "desc": "Avalon Finance is the CeDeFi Lending Platform that unifies liquidity to onboard various assets and millions of users.",
-       "tag": ["Lending"],
+       "tag": ["DeFi"],
        "url": "https://www.avalonfinance.xyz/",
        "image": "https://macaromswap.github.io/eco/logo/23.png"
    },
@@ -163,7 +163,7 @@
        "id": 24,
        "name": "TNA Protocol",
        "desc": "TNA Protocol is the naming protocol for Bitcoin designed to improve its usability and broaden its array of assets and primitives.",
-       "tag": ["NFT"],
+       "tag": ["Web3 Infra"],
        "url": "https://tna-btc.com/",
        "image": "https://macaromswap.github.io/eco/logo/24.png"
    },
@@ -171,7 +171,7 @@
        "id": 25,
        "name": "Camelot Protocol",
        "desc": "Camelot Protocol provides an entry point for joining GPUs to the distributed computing network through innovative Web3 incentive mechanisms.",
-       "tag": ["Staking"],
+       "tag": ["DeFi"],
        "url": "https://cam3lot.io/",
        "image": "https://macaromswap.github.io/eco/logo/25.png"
    },
@@ -179,7 +179,7 @@
        "id": 26,
        "name": "Gasturbo",
        "desc": "GAST is a pioneering DeFi platform known for its innovative approach to multi-chain yield aggregation.",
-       "tag": ["Yield Farming"],
+       "tag": ["DeFi"],
        "url": "https://app.gasturbo.io/",
        "image": "https://macaromswap.github.io/eco/logo/26.png"
    },
@@ -187,7 +187,7 @@
        "id": 27,
        "name": "ZOTH",
        "desc": "ZOTH is an RWA Defi Infra company bringing fixed-yield products on-chain.",
-       "tag": ["Yield Farming"],
+       "tag": ["DeFi"],
        "url": "https://zoth.io/",
        "image": "https://macaromswap.github.io/eco/logo/27.png"
    },
@@ -195,7 +195,7 @@
        "id": 28,
        "name": "YYEX",
        "desc": "YYEX is the decentralized derivatives exchange on Bitlayer.",
-       "tag": ["DEX"],
+       "tag": ["DeFi"],
        "url": "https://yyex.io/",
        "image": "https://macaromswap.github.io/eco/logo/28.png"
    },
@@ -203,7 +203,7 @@
        "id": 29,
        "name": "Glypher",
        "desc": "Glypher is the ultimate multi-chain asset alpha platform where you can discover and trade.",
-       "tag": ["DEX"],
+       "tag": ["DeFi"],
        "url": "https://glypher.io/",
        "image": "https://macaromswap.github.io/eco/logo/29.png"
    },
@@ -211,7 +211,7 @@
        "id": 30,
        "name": "Xstar",
        "desc": "Xstar is the Omnichain Identity Protocol for Proof of Humanity.",
-       "tag": ["NFT"],
+       "tag": ["Web3 Infra"],
        "url": "https://xstar.id/",
        "image": "https://macaromswap.github.io/eco/logo/30.png"
    },
@@ -219,7 +219,7 @@
        "id": 31,
        "name": "Paddle Finance",
        "desc": "Paddle Finance is the Decentralized Liquidity Protocol for Bespoke Assets on multi-chain.",
-       "tag": ["Lending"],
+       "tag": ["DeFi"],
        "url": "http://www.paddlefi.com/",
        "image": "https://macaromswap.github.io/eco/logo/31.png"
    },
@@ -243,7 +243,7 @@
        "id": 34,
        "name": "Zearn",
        "desc": "Zearn serves as an omnichain liquid (re)staking protocol supporting multiple blockchain ecosystems.",
-       "tag": ["Staking"],
+       "tag": ["DeFi"],
        "url": "https://www.zearn.xyz/",
        "image": "https://macaromswap.github.io/eco/logo/34.png"
    },
@@ -251,7 +251,7 @@
        "id": 35,
        "name": "Pell Network",
        "desc": "Pell Network is a decentralized trust marketplace that diversifies BTC and LSD yield, aiming to enhance security for BTC L2 networks.",
-       "tag": ["Staking"],
+       "tag": ["DeFi"],
        "url": "https://pell.network",
        "image": "https://macaromswap.github.io/eco/logo/35.png"
    },
@@ -267,7 +267,7 @@
        "id": 37,
        "name": "LayerBank",
        "desc": "LayerBank stands as a state-of-the-art, permissionless, non-custodial DeFi lending platform.",
-       "tag": ["Lending"],
+       "tag": ["DeFi"],
        "url": "https://layerbank.finance/",
        "image": "https://macaromswap.github.io/eco/logo/37.png"
    },
@@ -283,7 +283,7 @@
        "id": 39,
        "name": "Moonshot",
        "desc": "Moonshot is Degen Gaming Platform with three games: Crash, Double and Coinflip.",
-       "tag": ["Gaming"],
+       "tag": ["GameFi"],
        "url": "https://moonshot.win/",
        "image": "https://macaromswap.github.io/eco/logo/39.png"
    },
@@ -291,7 +291,7 @@
        "id": 40,
        "name": "Woof Woof West",
        "desc": "Woof Woof West is the 1st full-chain P2E game on Bitlayer with socialization and user interactivity.",
-       "tag": ["Gaming"],
+       "tag": ["GameFi"],
        "url": "https://woofwoofwest.fi/",
        "image": "https://macaromswap.github.io/eco/logo/40.png"
    },
@@ -307,7 +307,7 @@
        "id": 42,
        "name": "Master Protocol",
        "desc": "Master Protocol aims to become a one-stop BTC-Fi platform, with product offerings at every level of the value chain of BTC ecosystem.",
-       "tag": ["Staking", "Modular"],
+       "tag": ["DeFi"],
        "url": "https://testnet.masterprotocol.xyz",
        "image": "https://macaromswap.github.io/eco/logo/42.png"
    },
@@ -315,7 +315,7 @@
        "id": 43,
        "name": "Lorenzo",
        "desc": "Lorenzo is the Bitcoin Liquidity Finance Layer.",
-       "tag": ["Staking"],
+       "tag": ["DeFi"],
        "url": "https://app.lorenzo-protocol.xyz/",
        "image": "https://macaromswap.github.io/eco/logo/43.png"
    },
@@ -323,7 +323,7 @@
        "id": 44,
        "name": "LayerX",
        "desc": "LayerX Games Platform is a GameFi platform located on the BTC Layer 2 network.",
-       "tag": ["Gaming"],
+       "tag": ["GameFi"],
        "url": "https://layerx.cc",
        "image": "https://macaromswap.github.io/eco/logo/44.png"
    },
@@ -331,7 +331,7 @@
        "id": 45,
        "name": "LAVA Protocol",
        "desc": "LAVA Protocol is a Proof of Liquidity solution on Bitcoin Layer 2, backed by Bitlayer, Chaincather, CAGA, and Satoshi.",
-       "tag": ["Modular"],
+       "tag": ["Bridge"],
        "url": "https://www.lavarune.com",
        "image": "https://macaromswap.github.io/eco/logo/45.png"
    },
@@ -339,7 +339,7 @@
        "id": 46,
        "name": "Corridor Finance",
        "desc": "Corridor Finance aims to enhance the functionality of BRC20 tokens by leveraging DeFi solutions such as swaps, bridges, and farming.",
-       "tag": ["Modular"],
+       "tag": ["Bridge","Web3 Infra","DeFi"],
        "url": "https://corridor.finance/",
        "image": "https://macaromswap.github.io/eco/logo/46.png"
    },
@@ -355,7 +355,7 @@
        "id": 48,
        "name": "Gamerboom",
        "desc": "Gamerboom is a portal empowering real gamers.",
-       "tag": ["Gaming"],
+       "tag": ["GameFi"],
        "url": "https://www.gamerboom.org/",
        "image": "https://macaromswap.github.io/eco/logo/48.png"
    },
@@ -379,7 +379,7 @@
        "id": 51,
        "name": "Rivera Money",
        "desc": "Rivera Money is a permissionless liquidity management protocol that transforms concentrated positions into DeFi-composable yield tokens.",
-       "tag": ["Staking", "DEX"],
+       "tag": ["DeFi"],
        "url": "https://rivera.money/",
        "image": "https://macaromswap.github.io/eco/logo/51.png"
    },
@@ -387,7 +387,7 @@
        "id": 52,
        "name": "Rolldex",
        "desc": "RollDex stands at the forefront of BTC-native decentralized exchanges, revolutionizing the crypto derivatives market.",
-       "tag": ["DEX"],
+       "tag": ["DeFi"],
        "url": "https://rolldex.io/",
        "image": "https://macaromswap.github.io/eco/logo/52.png"
    },
@@ -403,7 +403,7 @@
        "id": 54,
        "name": "Vanilla",
        "desc": "Vanilla is the only Decentralized Trading Platform Where you can own 1 Bitcoin for Just $10! Vanilla Finance supports up to 10,000x leverage and no risk of liquidation.",
-       "tag": ["DEX"],
+       "tag": ["DeFi"],
        "url": "https://bit.vanillafinance.xyz/en/trade",
        "image": "https://macaromswap.github.io/eco/logo/54.png"
    },
@@ -411,7 +411,7 @@
        "id": 55,
        "name": "VolaARK",
        "desc": "VolaARK is the cross-chain LST Protocol Integration, initially deployed on BitlayerLabs.",
-       "tag": ["Staking"],
+       "tag": ["DeFi"],
        "url": "https://volaark.io/",
        "image": "https://macaromswap.github.io/eco/logo/55.png"
    },
@@ -427,7 +427,7 @@
        "id": 57,
        "name": "Ordmint",
        "desc": "Ordmint is the first community-driven ordinal launchpad & creator of OrdmintBot for inscription trading.",
-       "tag": ["Launchpad", "Trading Bot"],
+       "tag": ["Launchpad", "DeFi"],
        "url": "https://t.me/ordmint_bot",
        "image": "https://macaromswap.github.io/eco/logo/57.png"
    },
@@ -435,7 +435,7 @@
        "id": 58,
        "name": "Allspark",
        "desc": "Allspark is an omnichain liquidity protocol with composite native yields.",
-       "tag": ["Staking"],
+       "tag": ["DeFi"],
        "url": "https://allspark.finance/",
        "image": "https://macaromswap.github.io/eco/logo/58.png"
    },
@@ -459,7 +459,7 @@
        "id": 61,
        "name": "Eisen",
        "desc": "Eisen is a Multichain DEX & CEX aggregator for Traders and Liquidity Providers.",
-       "tag": ["DEX"],
+       "tag": ["DeFi"],
        "url": "https://app.eisenfinance.com/",
        "image": "https://macaromswap.github.io/eco/logo/61.png"
    },
@@ -467,7 +467,7 @@
        "id": 62,
        "name": "Domin Network",
        "desc": "Domin Network aims to roll up real-world commerce data to a multi-chain ecosystem, utilizing NFTs, DePIN & AI to optimize consumer data in dApps.",
-       "tag": ["DePIN"],
+       "tag": ["Web3 Infra"],
        "url": "https://www.domin.foundation/",
        "image": "https://macaromswap.github.io/eco/logo/62.png"
    },
@@ -475,8 +475,80 @@
        "id": 63,
        "name": "Ordinox",
        "desc": "Ordinox is a simple DeFi app-chain built using the Tendermint consensus engine, Cosmos-SDK state machine, and GG20 (TSS). It is a standalone Layer 1 DEX created using the Cosmos SDK.",
-       "tag": ["DEX"],
+       "tag": ["DeFi"],
        "url": "https://ordinox.xyz/",
        "image": "https://macaromswap.github.io/eco/logo/63.png"
-   }
+   },
+   {
+       "id": 64,
+        "name": "Golden Apple",
+        "desc": "Golden Apple is the BRC-20 NFT collection, boasting 21,000,000 NFTs.",
+        "tag": ["NFT"],
+        "url": "https://testnet.goldenapple.io/en",
+        "image": "https://macaromswap.github.io/eco/logo/64.png"
+    },
+    {
+        "id": 65,
+        "name": "OrangeLayer",
+        "desc": "OrangeLayer is a staking infrastructure platform that aims to combine Bitcoin's robust crypto-economic security with the smart contract capabilities of Ethereum.",
+        "tag": ["DeFi"],
+        "url": "https://www.orangelayer.xyz/",
+        "image": "https://macaromswap.github.io/eco/logo/65.png"
+    },
+    {
+        "id": 66,
+        "name": "PolyFlow",
+        "desc": "PolyFlow- A Modular, A.I. ready, decentralized crypto asset operations protocol to support PayFi and beyond.",
+        "tag": ["Web3 Infra"],
+        "url": "https://polyflow.tech/",
+        "image": "https://macaromswap.github.io/eco/logo/66.png"
+    },
+    {
+        "id": 67,
+        "name": "Predx.ai",
+        "desc": "Predx.ai is an AI-powered prediction market that aims to become the world's most engaging and informative event exchange.",
+        "tag": ["DeFi"],
+        "url": "https://predx.ai/",
+        "image": "https://macaromswap.github.io/eco/logo/67.png"
+    },
+    {
+        "id": 68,
+        "name": "Openbit",
+        "desc": "Openbit is the One-stop-shop wallet and super dApp solution for the Bitcoin economy.",
+        "tag": ["Web3 Infra"],
+        "url": "https://chromewebstore.google.com/detail/openbit-wallet/olobejhimilbacjmmhpcokekiaapfojm",
+        "image": "https://macaromswap.github.io/eco/logo/68.png"
+    },
+    {
+        "id": 69,
+        "name": "MathWallet",
+        "desc": "MathWallet is a multi-platform (mobile/desktop/hardware) universal crypto wallet.",
+        "tag": ["Web3 Infra"],
+        "url": "https://mathwallet.org/en-us/",
+        "image": "https://macaromswap.github.io/eco/logo/69.png"
+    },
+    {
+        "id": 70,
+        "name": "XLINK",
+        "desc": "XLink is a crucial \"Omni-chain Bitcoin Liquidity\" connector within the Bitcoin ecosystem.",
+        "tag": ["Bridge"],
+        "url": "https://www.xlink.network/",
+        "image": "https://macaromswap.github.io/eco/logo/70.png"
+    },
+    {
+        "id": 71,
+        "name": "BITliquidity",
+        "desc": "BITLiquidity, the first L1 BRC-20 Aggregator on Bitcoin.",
+        "tag": ["DeFi"],
+        "url": "https://bitliquidity.io/",
+        "image": "https://macaromswap.github.io/eco/logo/71.png"
+    },
+    {
+        "id": 72,
+        "name": "BitAcross",
+        "desc": "BitAcross is a Trustless Cross-Chain Interoperability Protocol for Bitcoin.",
+        "tag": ["Web3 Infra"],
+        "url": "https://app.bitacross.io/",
+        "image": "https://macaromswap.github.io/eco/logo/72.png"
+    }
 ]
