@@ -550,5 +550,61 @@
         "tag": ["Bridge"],
         "url": "https://app.bitacross.io/",
         "image": "BitAcorss media kit.zip"
+    },
+    {
+        "id": 73,
+        "name": "RetroBridge",
+        "desc": "RetroBridge 是一个跨链桥解决方案，旨在提供 EVM 和非 EVM 链之间的无缝连接。",
+        "tag": ["Bridge"],
+        "url": "https://retrobridge.io/",
+        "image": "https://macaromswap.github.io/eco/logo/73.png"
+    },
+    {
+        "id": 74,
+        "name": "Bedrock",
+        "desc": "Bedrock 是一个多资产流动再质押协议，致力于为用户提供多种资产的质押与再质押服务。",
+        "tag": ["DeFi"],
+        "url": "https://www.bedrock.technology/",
+        "image": "https://macaromswap.github.io/eco/logo/74.png"
+    },
+    {
+        "id": 75,
+        "name": "TrendX",
+        "desc": "TrendX 是一个 Web3 投资机会平台，利用业界领先的 AI 分析和趋势跟踪技术进行实时捕捉。",
+        "tag": ["Infra"],
+        "url": "https://app.trendx.tech/",
+        "image": "https://macaromswap.github.io/eco/logo/75.png"
+    },
+    {
+        "id": 76,
+        "name": "Dropshit",
+        "desc": "Dropshit 是一个用于社区建设的超休闲游戏平台，旨在通过简单有趣的游戏体验增强社区互动。",
+        "tag": ["Gaming"],
+        "url": "https://linktr.ee/dropshit",
+        "image": "https://macaromswap.github.io/eco/logo/76.png"
+    },
+    {
+        "id": 77,
+        "name": "Dexpert",
+        "desc": "Dexpert 是一个去中心化的一站式平台，旨在简化 DeFi 交易体验，帮助用户更轻松地进行去中心化金融操作。",
+        "tag": ["DeFi"],
+        "url": "https://linktr.ee/dexpert",
+        "image": "https://macaromswap.github.io/eco/logo/77.png"
+    },
+    {
+        "id": 78,
+        "name": "Komet",
+        "desc": "Komet 是一个非托管智能社交钱包，致力于简化区块链技术的复杂性，使用户能够更轻松地管理加密资产。",
+        "tag": ["Infra"],
+        "url": "https://app.komet.me/",
+        "image": "https://macaromswap.github.io/eco/logo/78.png"
+    },
+    {
+        "id": 79,
+        "name": "Bullishs",
+        "desc": "Bullishs 是一个全链结合无缝交易技术的点击广告游戏平台，旨在通过简单的广告点击游戏为用户提供奖励。",
+        "tag": ["Gaming"],
+        "url": "https://www.bullishs.io",
+        "image": "https://macaromswap.github.io/eco/logo/79.png"
     }
 ]

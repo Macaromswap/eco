@@ -550,5 +550,63 @@
         "tag": ["Web3 Infra"],
         "url": "https://app.bitacross.io/",
         "image": "https://macaromswap.github.io/eco/logo/72.png"
+    },
+    {
+        [
+    {
+        "id": 73,
+        "name": "RetroBridge",
+        "desc": "RetroBridge is a robust multichain ecosystem and gateway to seamless connectivity across various EVM and non-EVM chains.",
+        "tag": ["Bridge"],
+        "url": "https://retrobridge.io/",
+        "image": "https://macaromswap.github.io/eco/logo/73.png"
+    },
+    {
+        "id": 74,
+        "name": "Bedrock",
+        "desc": "Bedrock is the multi-asset liquid restaking protocol, providing users with a platform for staking and restaking multiple assets.",
+        "tag": ["DeFi"],
+        "url": "https://www.bedrock.technology/",
+        "image": "https://macaromswap.github.io/eco/logo/74.png"
+    },
+    {
+        "id": 75,
+        "name": "TrendX",
+        "desc": "TrendX is an all-in-one Web3 investment opportunity platform that utilizes industry-leading AI analysis and trend tracking technology for real-time capture.",
+        "tag": ["Infra"],
+        "url": "https://app.trendx.tech/",
+        "image": "https://macaromswap.github.io/eco/logo/75.png"
+    },
+    {
+        "id": 76,
+        "name": "Dropshit",
+        "desc": "Dropshit is a hyper-casual game platform designed for community building, offering simple and engaging gaming experiences to enhance community interaction.",
+        "tag": ["Gaming"],
+        "url": "https://linktr.ee/dropshit",
+        "image": "https://macaromswap.github.io/eco/logo/76.png"
+    },
+    {
+        "id": 77,
+        "name": "Dexpert",
+        "desc": "Dexpert is a decentralized all-in-one platform that simplifies the DeFi trading experience, making decentralized financial operations easier for users.",
+        "tag": ["DeFi"],
+        "url": "https://linktr.ee/dexpert",
+        "image": "https://macaromswap.github.io/eco/logo/77.png"
+    },
+    {
+        "id": 78,
+        "name": "Komet",
+        "desc": "Komet is a non-custodial smart social wallet dedicated to abstracting the complexities of blockchain technology, enabling users to manage crypto assets more easily.",
+        "tag": ["Infra"],
+        "url": "https://app.komet.me/",
+        "image": "https://macaromswap.github.io/eco/logo/78.png"
+    },
+    {
+        "id": 79,
+        "name": "Bullishs",
+        "desc": "Bullishs is an omni cross-rollup gaming platform with seamless transaction technology, featuring a tap-to-earn advertising game model.",
+        "tag": ["Gaming"],
+        "url": "https://www.bullishs.io",
+        "image": "https://macaromswap.github.io/eco/logo/79.png"
     }
 ]
