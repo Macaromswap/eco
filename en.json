@@ -606,5 +606,29 @@
         "tag": ["Gaming"],
         "url": "https://www.bullishs.io",
         "image": "https://macaromswap.github.io/eco/logo/79.png"
-    }
+    },
+    {
+        "id": 80,
+       "name": "Pumpad",
+       "desc": "Pumpad is a one-stop launch platform for the BTC ecosystem, serving communities and users to issue VGA assets according to the IPOS standard.",
+       "tag": ["Infra"],
+       "url": "https://pumpad.io/",
+       "image": "https://macaromswap.github.io/eco/logo/80.png"
+   },
+   {
+       "id": 81,
+       "name": "Swing",
+       "desc": "Swing is the go-to platform for DEX liquidity and bridge aggregation, spanning over 43 EVM and non-EVM chains.",
+       "tag": ["DeFi"],
+       "url": "https://swing.xyz/",
+       "image": "https://macaromswap.github.io/eco/logo/81.png"
+   },
+   {
+       "id": 82,
+       "name": "Nika Labs",
+       "desc": "Nika Labs is an original Web3 Gaming IP, onboard Truly On-chain Games with millions of installs.",
+       "tag": ["Gaming"],
+       "url": "https://www.nikalabs.org/",
+       "image": "https://macaromswap.github.io/eco/logo/82.png"
+   }
 ]

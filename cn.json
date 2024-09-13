@@ -606,5 +606,29 @@
         "tag": ["Gaming"],
         "url": "https://www.bullishs.io",
         "image": "https://macaromswap.github.io/eco/logo/79.png"
-    }
+    },
+    {
+        "id": 80,
+       "name": "Pumpad",
+       "desc": "Pumpad 是 Bitlayer 原生的 Launchpad 项目，为社区和用户提供一站式平台，用于根据 IPOS 标准发行 VGA 资产。",
+       "tag": ["基础设施"],
+       "url": "https://pumpad.io/",
+       "image": "https://macaromswap.github.io/eco/logo/80.png"
+   },
+   {
+       "id": 81,
+       "name": "Swing",
+       "desc": "Swing 是跨 43 条 EVM 和非 EVM 链的首选 DEX 流动性和跨链桥接聚合平台。",
+       "tag": ["去中心化金融"],
+       "url": "https://swing.xyz/",
+       "image": "https://macaromswap.github.io/eco/logo/81.png"
+   },
+   {
+       "id": 82,
+       "name": "Nika Labs",
+       "desc": "Nika Labs 是一个原创的 Web3 游戏 IP，推出了拥有数百万下载量的链上游戏。",
+       "tag": ["游戏"],
+       "url": "https://www.nikalabs.org/",
+       "image": "https://macaromswap.github.io/eco/logo/82.png"
+   }
 ]
