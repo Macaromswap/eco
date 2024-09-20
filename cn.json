@@ -19,7 +19,7 @@
         "id": 3,
         "name": "Uniport.Network",
         "desc": "UniPort.Network 是一个特色为BTC Restaking Layer的双链架构，是基于Cosmos、Polygon CDK和Babylon构建的创新模块化区块链。",
-        "tag": ["Web3 Infra"],
+        "tag": ["Infra"],
         "url": "https://uniport.network/",
         "image": "https://macaromswap.github.io/eco/logo/3.png"
     },
@@ -59,7 +59,7 @@
         "id": 10,
         "name": "OrdzGames",
         "desc": "OrdzGames 是#比特币上的第一个游戏项目。",
-        "tag": ["GameFi"],
+        "tag": ["Gaming"],
         "url": "https://www.ordz.games/?page=home",
         "image": "https://macaromswap.github.io/eco/logo/10.png"
     },
@@ -123,7 +123,7 @@
         "id": 19,
         "name": "Particle Network",
         "desc": "Particle Network 是模块化L1。",
-        "tag": ["Web3 Infra"],
+        "tag": ["Infra"],
         "url": "https://particle.network",
         "image": "https://macaromswap.github.io/eco/logo/19.png"
     },
@@ -163,7 +163,7 @@
        "id": 24,
        "name": "TNA Protocol",
        "desc": "TNA Protocol 是集全链域名资产发行和DA解决方案于一体的比特币资产与安全协议。",
-       "tag": ["Web3 Infra"],
+       "tag": ["Infra"],
        "url": "https://tna-btc.com/",
        "image": "https://macaromswap.github.io/eco/logo/24.png"
    },
@@ -283,7 +283,7 @@
        "id": 39,
        "name": "Moonshot",
        "desc": "Moonshot 是一个 Degen 游戏平台，拥有三款游戏：Crash、Double 和 Coinflip。",
-       "tag": ["GameFi"],
+       "tag": ["Gaming"],
        "url": "https://moonshot.win/",
        "image": "https://macaromswap.github.io/eco/logo/39.png"
    },
@@ -291,7 +291,7 @@
        "id": 40,
        "name": "Woof Woof West",
        "desc": "Woof Woof West 是 Bitlayer 上第一个全链 P2E 游戏，具有社交和用户互动功能。",
-       "tag": ["GameFi"],
+       "tag": ["Gaming"],
        "url": "https://woofwoofwest.fi/",
        "image": "https://macaromswap.github.io/eco/logo/40.png"
    },
@@ -323,7 +323,7 @@
        "id": 44,
        "name": "LayerX",
        "desc": "LayerX 游戏平台是位于 BTC Layer 2 网络上的 GameFi 平台。",
-       "tag": ["GameFi"],
+       "tag": ["Gaming"],
        "url": "https://layerx.cc",
        "image": "https://macaromswap.github.io/eco/logo/44.png"
    },
@@ -339,7 +339,7 @@
        "id": 46,
        "name": "Corridor Finance",
        "desc": "Corridor Finance 是适用于所有比特币L2 网络的跨链AMM 交易所,并提供桥，挖矿功能。",
-       "tag": ["Bridge","Web3 Infra","DeFi"],
+       "tag": ["Bridge","Infra","DeFi"],
        "url": "https://corridor.finance/",
        "image": "https://macaromswap.github.io/eco/logo/46.png"
    },
@@ -355,7 +355,7 @@
         "id": 48,
         "name": "Gamerboom",
         "desc": "Gamerboom 是一个赋能真实游戏玩家的门户。",
-        "tag": ["GameFi"],
+        "tag": ["Gaming"],
         "url": "https://www.gamerboom.org/",
         "image": "https://macaromswap.github.io/eco/logo/48.png"
     },
@@ -467,7 +467,7 @@
         "id": 62,
         "name": "Domin Network",
         "desc": "Domin Network 旨在将现实世界的商业数据汇集到多链生态系统中，利用 NFT、DePIN 和 AI 来优化 dApp 中的消费者数据。",
-        "tag": ["Web3 Infra"],
+        "tag": ["Infra"],
         "url": "https://www.domin.foundation/",
         "image": "https://macaromswap.github.io/eco/logo/62.png"
     },
@@ -499,7 +499,7 @@
         "id": 66,
         "name": "PolyFlow",
         "desc": "PolyFlow 是一个模块化、AI 支持的去中心化加密资产操作协议，以支持 PayFi 及其他应用。",
-        "tag": ["Web3 Infra"],
+        "tag": ["Infra"],
         "url": "https://polyflow.tech/",
         "image": "https://drive.google.com/file/d/1yBH7R6vlCmG6MQMf-_AWFMNLVJl_0VaX/view?usp=sharing"
     },
@@ -515,7 +515,7 @@
         "id": 68,
         "name": "Openbit",
         "desc": "Openbit 是比特币经济的一站式钱包和超级 dApp 解决方案。",
-        "tag": ["Web3 Infra"],
+        "tag": ["Infra"],
         "url": "https://chromewebstore.google.com/detail/openbit-wallet/olobejhimilbacjmmhpcokekiaapfojm",
         "image": "https://github.com/openbitdev/branding-kit/blob/main/OpenBit-Branding-Kit.zip"
     },
@@ -523,7 +523,7 @@
         "id": 69,
         "name": "MathWallet",
         "desc": "MathWallet 是一个多平台（移动/桌面/硬件）通用加密钱包。",
-        "tag": ["Web3 Infra"],
+        "tag": ["Infra"],
         "url": "https://mathwallet.org/en-us/",
         "image": "https://blog.mathwallet.org/?p=396"
     },
@@ -611,7 +611,7 @@
         "id": 80,
        "name": "Pumpad",
        "desc": "Pumpad 是 Bitlayer 原生的 Launchpad 项目，为社区和用户提供一站式平台，用于根据 IPOS 标准发行 VGA 资产。",
-       "tag": ["基础设施"],
+       "tag": ["Infra","DeFi","Launchpad"],
        "url": "https://pumpad.io/",
        "image": "https://macaromswap.github.io/eco/logo/80.png"
    },
@@ -619,7 +619,7 @@
        "id": 81,
        "name": "Swing",
        "desc": "Swing 是跨 43 条 EVM 和非 EVM 链的首选 DEX 流动性和跨链桥接聚合平台。",
-       "tag": ["去中心化金融"],
+       "tag": ["DeFi"],
        "url": "https://swing.xyz/",
        "image": "https://macaromswap.github.io/eco/logo/81.png"
    },
@@ -627,8 +627,56 @@
        "id": 82,
        "name": "Nika Labs",
        "desc": "Nika Labs 是一个原创的 Web3 游戏 IP，推出了拥有数百万下载量的链上游戏。",
-       "tag": ["游戏"],
+       "tag": ["Gaming"],
        "url": "https://www.nikalabs.org/",
        "image": "https://macaromswap.github.io/eco/logo/82.png"
-   }
+   },
+   {
+       "id": 83,
+        "name": "Bento Batch",
+        "desc": "Bento Batch 是一个意图交易层，旨在提升区块链的效率。",
+        "tag": ["DeFi"],
+        "url": "https://bentobatch.com/?utm_medium=promotion&utm_campaign=twitter&utm_term=bio&utm_source=twitter",
+        "image": "https://macaromswap.github.io/eco/logo/83.png"
+    },
+    {
+        "id": 84,
+        "name": "Akka Finance",
+        "desc": "Akka 是比特币 DeFi 生态系统中的一个 AI 驱动的流动性层。",
+        "tag": ["DeFi"],
+        "url": "https://akka.finance",
+        "image": "https://macaromswap.github.io/eco/logo/84.png"
+    },
+    {
+        "id": 85,
+        "name": "Jasper Vault",
+        "desc": "Jasper Vault 是一个点对点的跨链期权协议。",
+        "tag": ["DeFi"],
+        "url": "https://app.jaspervault.io/",
+        "image": "https://macaromswap.github.io/eco/logo/85.png"
+    },
+    {
+        "id": 86,
+        "name": "Fufuture",
+        "desc": "Fufuture 是世界上首个基于代币的去中心化永续期权交易平台。",
+        "tag": ["DeFi"],
+        "url": "https://linktr.ee/fufuture",
+        "image": "https://macaromswap.github.io/eco/logo/86.png"
+    },
+    {
+        "id": 87,
+        "name": "Influpia",
+        "desc": "Influpia 是一个革命性的 Web3 多链社交平台。",
+        "tag": ["Social"],
+        "url": "https://www.influpia.com/",
+        "image": "https://macaromswap.github.io/eco/logo/87.png"
+    },
+    {
+        "id": 88,
+        "name": "Galaxy",
+        "desc": "Galaxy 提供来自 100 多个区块链、桥接协议和流动性聚合器的跨链流动性即时访问。",
+        "tag": ["Bridge", "DeFi"],
+        "url": "https://galaxy.exchange/swap?affiliate=macaron",
+        "image": "https://macaromswap.github.io/eco/logo/88.png"
+    }
 ]

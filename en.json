@@ -19,7 +19,7 @@
         "id": 3,
         "name": "Uniport.Network",
         "desc": "UniPort.Network is a BTC Restaking Layer featured dual-chain architecture, a creative modular blockchain constructed based on Cosmos, Polygon CDK, and Babylon.",
-        "tag": ["Web3 Infra"],
+        "tag": ["Infra"],
         "url": "https://uniport.network/",
         "image": "https://macaromswap.github.io/eco/logo/3.png"
     },
@@ -59,7 +59,7 @@
         "id": 10,
         "name": "OrdzGames",
         "desc": "1st Gaming Project on #Bitcoin.",
-        "tag": ["GameFi"],
+        "tag": ["Gaming"],
         "url": "https://www.ordz.games/?page=home",
         "image": "https://macaromswap.github.io/eco/logo/10.png"
     },
@@ -123,7 +123,7 @@
         "id": 19,
         "name": "Particle Network",
         "desc": "The Modular L1",
-        "tag": ["Web3 Infra"],
+        "tag": ["Infra"],
         "url": "https://particle.network",
         "image": "https://macaromswap.github.io/eco/logo/19.png"
     },
@@ -163,7 +163,7 @@
        "id": 24,
        "name": "TNA Protocol",
        "desc": "TNA Protocol is the naming protocol for Bitcoin designed to improve its usability and broaden its array of assets and primitives.",
-       "tag": ["Web3 Infra"],
+       "tag": ["Infra"],
        "url": "https://tna-btc.com/",
        "image": "https://macaromswap.github.io/eco/logo/24.png"
    },
@@ -211,7 +211,7 @@
        "id": 30,
        "name": "Xstar",
        "desc": "Xstar is the Omnichain Identity Protocol for Proof of Humanity.",
-       "tag": ["Web3 Infra"],
+       "tag": ["Infra"],
        "url": "https://xstar.id/",
        "image": "https://macaromswap.github.io/eco/logo/30.png"
    },
@@ -283,7 +283,7 @@
        "id": 39,
        "name": "Moonshot",
        "desc": "Moonshot is Degen Gaming Platform with three games: Crash, Double and Coinflip.",
-       "tag": ["GameFi"],
+       "tag": ["Gaming"],
        "url": "https://moonshot.win/",
        "image": "https://macaromswap.github.io/eco/logo/39.png"
    },
@@ -291,7 +291,7 @@
        "id": 40,
        "name": "Woof Woof West",
        "desc": "Woof Woof West is the 1st full-chain P2E game on Bitlayer with socialization and user interactivity.",
-       "tag": ["GameFi"],
+       "tag": ["Gaming"],
        "url": "https://woofwoofwest.fi/",
        "image": "https://macaromswap.github.io/eco/logo/40.png"
    },
@@ -323,7 +323,7 @@
        "id": 44,
        "name": "LayerX",
        "desc": "LayerX Games Platform is a GameFi platform located on the BTC Layer 2 network.",
-       "tag": ["GameFi"],
+       "tag": ["Gaming"],
        "url": "https://layerx.cc",
        "image": "https://macaromswap.github.io/eco/logo/44.png"
    },
@@ -339,7 +339,7 @@
        "id": 46,
        "name": "Corridor Finance",
        "desc": "Corridor Finance aims to enhance the functionality of BRC20 tokens by leveraging DeFi solutions such as swaps, bridges, and farming.",
-       "tag": ["Bridge","Web3 Infra","DeFi"],
+       "tag": ["Bridge","DeFi"],
        "url": "https://corridor.finance/",
        "image": "https://macaromswap.github.io/eco/logo/46.png"
    },
@@ -355,7 +355,7 @@
        "id": 48,
        "name": "Gamerboom",
        "desc": "Gamerboom is a portal empowering real gamers.",
-       "tag": ["GameFi"],
+       "tag": ["Gaming"],
        "url": "https://www.gamerboom.org/",
        "image": "https://macaromswap.github.io/eco/logo/48.png"
    },
@@ -427,7 +427,7 @@
        "id": 57,
        "name": "Ordmint",
        "desc": "Ordmint is the first community-driven ordinal launchpad & creator of OrdmintBot for inscription trading.",
-       "tag": ["Launchpad", "DeFi"],
+       "tag": ["DeFi"],
        "url": "https://t.me/ordmint_bot",
        "image": "https://macaromswap.github.io/eco/logo/57.png"
    },
@@ -467,7 +467,7 @@
        "id": 62,
        "name": "Domin Network",
        "desc": "Domin Network aims to roll up real-world commerce data to a multi-chain ecosystem, utilizing NFTs, DePIN & AI to optimize consumer data in dApps.",
-       "tag": ["Web3 Infra"],
+       "tag": ["Infra"],
        "url": "https://www.domin.foundation/",
        "image": "https://macaromswap.github.io/eco/logo/62.png"
    },
@@ -499,7 +499,7 @@
         "id": 66,
         "name": "PolyFlow",
         "desc": "PolyFlow- A Modular, A.I. ready, decentralized crypto asset operations protocol to support PayFi and beyond.",
-        "tag": ["Web3 Infra"],
+        "tag": ["Infra"],
         "url": "https://polyflow.tech/",
         "image": "https://macaromswap.github.io/eco/logo/66.png"
     },
@@ -515,7 +515,7 @@
         "id": 68,
         "name": "Openbit",
         "desc": "Openbit is the One-stop-shop wallet and super dApp solution for the Bitcoin economy.",
-        "tag": ["Web3 Infra"],
+        "tag": ["Infra"],
         "url": "https://chromewebstore.google.com/detail/openbit-wallet/olobejhimilbacjmmhpcokekiaapfojm",
         "image": "https://macaromswap.github.io/eco/logo/68.png"
     },
@@ -523,7 +523,7 @@
         "id": 69,
         "name": "MathWallet",
         "desc": "MathWallet is a multi-platform (mobile/desktop/hardware) universal crypto wallet.",
-        "tag": ["Web3 Infra"],
+        "tag": ["Infra"],
         "url": "https://mathwallet.org/en-us/",
         "image": "https://macaromswap.github.io/eco/logo/69.png"
     },
@@ -547,7 +547,7 @@
         "id": 72,
         "name": "BitAcross",
         "desc": "BitAcross is a Trustless Cross-Chain Interoperability Protocol for Bitcoin.",
-        "tag": ["Web3 Infra"],
+        "tag": ["Infra"],
         "url": "https://app.bitacross.io/",
         "image": "https://macaromswap.github.io/eco/logo/72.png"
     },
@@ -611,7 +611,7 @@
         "id": 80,
        "name": "Pumpad",
        "desc": "Pumpad is a one-stop launch platform for the BTC ecosystem, serving communities and users to issue VGA assets according to the IPOS standard.",
-       "tag": ["Infra"],
+       "tag": ["Infra","DeFi","Launchpad"],
        "url": "https://pumpad.io/",
        "image": "https://macaromswap.github.io/eco/logo/80.png"
    },
@@ -630,5 +630,53 @@
        "tag": ["Gaming"],
        "url": "https://www.nikalabs.org/",
        "image": "https://macaromswap.github.io/eco/logo/82.png"
-   }
+   },
+   {
+       "id": 83,
+        "name": "Bento Batch",
+        "desc": "Bento Batch is an Intent Transaction Layer to upscale blockchain efficiency.",
+        "tag": ["DeFi"],
+        "url": "https://bentobatch.com/?utm_medium=promotion&utm_campaign=twitter&utm_term=bio&utm_source=twitter",
+        "image": "https://macaromswap.github.io/eco/logo/83.png"
+    },
+    {
+        "id": 84,
+        "name": "Akka Finance",
+        "desc": "Akka is a cutting-edge, AI-powered liquidity layer for the Bitcoin DeFi ecosystem.",
+        "tag": ["DeFi"],
+        "url": "https://akka.finance",
+        "image": "https://macaromswap.github.io/eco/logo/84.png"
+    },
+    {
+        "id": 85,
+        "name": "Jasper Vault",
+        "desc": "Jasper Vault is a peer-to-peer interoperable options protocol.",
+        "tag": ["DeFi"],
+        "url": "https://app.jaspervault.io/",
+        "image": "https://macaromswap.github.io/eco/logo/85.png"
+    },
+    {
+        "id": 86,
+        "name": "Fufuture",
+        "desc": "Fufuture is the world's first decentralized token-based perpetual options trading platform.",
+        "tag": ["DeFi"],
+        "url": "https://linktr.ee/fufuture",
+        "image": "https://macaromswap.github.io/eco/logo/86.png"
+    },
+    {
+        "id": 87,
+        "name": "Influpia",
+        "desc": "Influpia is a revolutionary Web3 multi-chain social platform.",
+        "tag": ["Social"],
+        "url": "https://www.influpia.com/",
+        "image": "https://macaromswap.github.io/eco/logo/87.png"
+    },
+    {
+        "id": 88,
+        "name": "Galaxy",
+        "desc": "Galaxy provides instant access to cross-chain liquidity from over 100 blockchains, bridges, and liquidity aggregators.",
+        "tag": ["Bridge", "DeFi"],
+        "url": "https://galaxy.exchange/swap?affiliate=macaron",
+        "image": "https://macaromswap.github.io/eco/logo/88.png"
+    }
 ]
